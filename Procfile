@@ -1,0 +1,1 @@
+web: gunicorn   HelloSwipe.BackEnd.main:app
